@@ -17,7 +17,7 @@ bool AskToPlayAgain();
 
 FBullCowGame BCGame; //instantiate a new game
 
-//Entry Point For Application
+//Entry Point For Application.
 int main() 
 {
 	std::cout << BCGame.GetCurrentTry();
